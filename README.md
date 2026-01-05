@@ -1,2 +1,2 @@
-setx MONGO_URI "<insert-mongo-uri-here>"
-setx HYPIXEL_KEY "<insert-hypixel-api-key-here>"
+setx MONGO_URI "key"<br>
+setx HYPIXEL_KEY "key"
